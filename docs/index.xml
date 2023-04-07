@@ -20,7 +20,7 @@
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
         <guid>https://sarrytan.github.io/p/hello-world/</guid>
-        <description>&lt;img src="https://sarrytan.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;入力テスト。憂鬱はゆううつと読む複雑な漢字です。&lt;/p&gt;
+        <description>&lt;img src="https://sarrytan.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;日本語入力テスト。憂鬱はゆううつと読む複雑な漢字です。&lt;/p&gt;
 &lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
 &lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://docs.stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://docs.stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
